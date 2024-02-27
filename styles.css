@@ -1,9 +1,11 @@
 
 /* Your CSS Code here. */
 .holder{
-	width:800px;
+	width:600px;
+	height:200px;
 	display: flex;
     flex-direction:row;
+	justify-content:center;
     flex-wrap: wrap-reverse;
 }
 .red{
